@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TYNMw+4kqFHAPLPqJVy+MpSmQB6HcJ0brzEMoDRslK8y506195Udkx9kIea4ev9svVQyv+VmQRUg+MOPQe/kaA==",
+  "success": true,
+  "projectFilePath": "D:\\Studija\\Programowanie 3\\zadaniedomowe1\\zadaniedomowe1\\zadaniedomowe1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ultra\\.nuget\\packages\\system.codedom\\8.0.0\\system.codedom.8.0.0.nupkg.sha512",
+    "C:\\Users\\ultra\\.nuget\\packages\\system.management\\8.0.0\\system.management.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
